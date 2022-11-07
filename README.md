@@ -23,6 +23,8 @@ This task makes use of the Eexercici5.py python script which is putting all the 
 
 ## Extra information
 
-This repo is also containing some videos and images that could be useful when trying to run the python scripts. For example the '1min_cuttedVideo.mp4' is a 1 minute cutted video from the BBB original video. Then we also have the images 'image.jpg' and 'image.png' to take them as input parameters of the function defined in exercise 3 to resize these images (resized outputs using the function of task 3: 'outputImage.jpg' and 'outputImage.png'). We can also try to resize the 1min_cuttedVideo.mp4 as well, because the function works with all types of input files (output of the resized video outputVideo.mp4).
+This repo is also containing some videos and images that could be useful when trying to run the python scripts. For example the '1min_cuttedVideo.mp4' is a 1 minute cutted video from the BBB original video. Then we also have the images 'image.jpg' and 'image.png' to take them as input parameters of the function defined in task 3 to resize these images (resized outputs using the function of task 3: 'outputImage.jpg' and 'outputImage.png'). We can also try to resize the 1min_cuttedVideo.mp4 as well, because the function works with all types of input files (output of the resized video outputVideo.mp4).
 
-Then we have some text files such as 'info_ex1.txt' and 'info_ex4.txt' which are very helpful for exercise 1 and exercise 4 respectivelly in order to be aware of the container information of the videos that we are using.
+Then we have some text files such as 'info_ex1.txt' and 'info_ex4.txt' which are very helpful for task 1 and task 4 respectivelly in order to be aware of the container information of the videos that we are using.
+
+In addition, I have also added the output of the use of the function in task 2: 'output_ex2.mp4' together with the two extracted audio traks. The one in mp3 stereo format, 'stereo_track.mp3', and the one in aac and lower bitrate as 'aac_lowerBitrate.aac'.
