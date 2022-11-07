@@ -24,3 +24,5 @@ This task makes use of the Eexercici5.py python script which is putting all the 
 ## Extra information
 
 This repo is also containing some videos and images that could be useful when trying to run the python scripts. For example the '1min_cuttedVideo.mp4' is a 1 minute cutted video from the BBB original video. Then we also have the images 'image.jpg' and 'image.png' to take them as input parameters of the function defined in exercise 3 to resize these images. We can also try to resize the 1min_cuttedVideo.mp4 as well, because the function works with all types of input files.
+
+Then we have some text files such as 'info_ex1.txt' and 'info_ex4.txt' which are very helpful for exercise 1 and exercise 4 respectivelly in order to be aware of the container information of the videos that we are using.
